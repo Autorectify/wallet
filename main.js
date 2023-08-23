@@ -253,7 +253,7 @@ const data = [
   txt:'Keplr'
 },
 {
-  src:'image/ICONex.PNGs',
+  src:'image/ICONex.PNG',
   txt:'ICONex'
 },
 {
